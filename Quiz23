@@ -1,0 +1,20 @@
+class Quiz:
+    def __init__(self,a,b,c):
+        self.a: int = a
+        self.b: int = b
+        self.c: int = c
+
+    def triangles(self):
+        a = self.a
+        b = self.b
+        c = self.c
+
+        if (a + b) > c and (a + c) > b and (b + c) > a:
+             return True
+        else:
+            return False
+
+print(Quiz(1,1,2).triangles())
+print(Quiz(5,6,3).triangles())
+print(Quiz(1,2,9).triangles())
+print(Quiz(3,9,2).triangles())
