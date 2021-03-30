@@ -29,6 +29,8 @@ The app that I am creating is not very big or powerful. All that the app is expe
 
 **ER Diagram**
 
+<img src = "https://github.com/zvmyan/Unit3/blob/main/wower.jpg" width = "800" height = "300" >
+
 **Normalized Tables**
 
 **User to Project ID**
