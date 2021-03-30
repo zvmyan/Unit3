@@ -21,6 +21,8 @@ The app that I am creating is not very big or powerful. All that the app is expe
 
 **Sketch**
 
+<img src = "https://github.com/zvmyan/Unit3/blob/main/wowox.jpg" width = "600" height = "400" >
+
 **System Flow Diagram**
 
 **UML Diagram**
