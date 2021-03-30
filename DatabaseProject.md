@@ -27,6 +27,8 @@ The app that I am creating is not very big or powerful. All that the app is expe
 
 **UML Diagram**
 
+![wowuml.jpg](https://github.com/zvmyan/Unit3/blob/main/wowuml.jpg)
+
 **ER Diagram**
 
 <img src = "https://github.com/zvmyan/Unit3/blob/main/wower.jpg" width = "800" height = "300" >
