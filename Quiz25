@@ -1,0 +1,20 @@
+#  - Present statistics on the local corona situation for a local microbiology laboratory
+#  - Inputs: Number of samples, SampleID, PatientID, Analysis, Result
+#  - Conditions:
+#  - Analysis must be SARS
+#  - Patient ID CONTROL should not be counted
+#  - Samples with ERR should not be counted
+#  - Duplicates of the same Sample ID should not be counted
+# Positive rate is calculated like Individuals positive/Individuals tested x 100%
+# Outputs:
+#   - Individuals positive
+#   - Total positive
+#   - Individuals tested
+#   - Total tested
+#   - Positive Rate
+
+class Quiz:
+    def __init__(self, input):
+        self.input: list()
+
+That's as far as I got :(
