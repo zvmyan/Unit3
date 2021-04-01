@@ -1,0 +1,18 @@
+class Quiz:
+    def __init__(self, a, b, c, d):
+        self.a: int = a
+        self.b: int = b
+        self.c: int = c
+        self.d: int = d
+
+    def foils(self):
+        a = self.a
+        b = self.b
+        c = self.c
+        d = self.d
+        # You don't have to do that ^, just write self.a or whatever variable you're using
+
+        return (a*c*x^2) + ((a*d + b*c)*x) + b*d
+
+print(Quiz(3,5,7,2).foils())
+
